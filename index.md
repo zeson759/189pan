@@ -1,3 +1,3 @@
-- 签到时间 2026-05-19 13:14:33 [![签到状态](https://github.com/y377/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/y377/189pan/actions/workflows/main.yml)
+- 签到时间 2026-05-20 00:35:18 [![签到状态](https://github.com/y377/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/y377/189pan/actions/workflows/main.yml)
 - 开始执行帐号1
 - 用户名或密码为空
